@@ -1,0 +1,33 @@
+body {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.contenedor {
+}
+
+input {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-width: 1px;
+  height: 25px;
+}
+
+.btn {
+  background-color: #212529;
+  color: white;
+  border-radius: 2em;
+  height: 43px;
+  width: 90px;
+ 
+}
+
+.btn:hover {
+  background-color: #a294bd;
+  border-color: #a294bd;
+  color: white;
+  border-radius: 2em;
+}
